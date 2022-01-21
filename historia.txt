@@ -1,0 +1,73 @@
+GIT LOG
+
+commit b0852dd86c74e106ac79833ab361c8cf158e7975 (HEAD)
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:48:08 2022 +0100
+
+    uaktualnienie nazw plików w piosenka.txt zawierajacych pierwsza, druga i trzecia czesc piosenki
+
+commit 1ccc99b4dd817ef1a55f2f430f8ca34fa28d904a
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:44:00 2022 +0100
+
+    usuniecie powtarzajacego sie pliku z trzecia czescia piosenki i zmiana nazwy pliku trzeciej czesci piosenki na part3.txt
+
+commit 2d02612a68bc341908f1ed964d59b9b0474d20f3
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:41:34 2022 +0100
+
+    usuniecie powtarzajacego sie pliku z druga czescia piosenki i zmiana nazwy pliku drugiej czesci piosenki na part2.txt
+
+commit f376d746151b54b4ec6b35b603df2656fff5dfd2
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:30:14 2022 +0100
+
+    usuniecie powtarzajacego sie pliku z pierwsza czescia piosenki i zmiana nazwy pliku pierwszej czesci piosenki na part1.txt
+
+commit c8a951b72a5af5937bb4eda268094e992d2021d9
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:27:37 2022 +0100
+
+    poprawienie nazw plików zawierajacych refren w piosenka.txt
+
+commit 9af9cd1e82d81bfb6a547f118ec8a147290c1590
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:22:08 2022 +0100
+
+    usuniecie powtarzajacych sie plikow refrenu i zmiana nazwy pliku refrenu na chorus.txt
+
+commit b3529b01b019159b32f0ae20fdbc5bf6c0228a4d
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:13:15 2022 +0100
+
+    Revert "wykasowanie ostatniej linii refrenu z pliku chorus1.txt"
+
+    This reverts commit 085f72c2ead99d3c48e4be29de9dcf75c2babcf2.
+
+commit 085f72c2ead99d3c48e4be29de9dcf75c2babcf2 (master)
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:00:00 2022 +0100
+
+    wykasowanie ostatniej linii refrenu z pliku chorus1.txt
+
+commit 08aaeb87287303fb5d44a6566c68f4070770619e
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:57:46 2022 +0100
+
+    zastapienie tekstu piosenki nazwami plikow zawierajacych dana czesc piosenki - kolejnosc zachowana
+
+commit 5667aba63b84cf248f9cdb7aa23ad78df6ea531e
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:41:15 2022 +0100
+
+    dodanie pliku chorus4.txt - zawiera czwarte wystapienie refrenu piosenki
+
+commit 0b8096975f3c3a63d9397c1ae656a0f85552f68f
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:40:52 2022 +0100
+
+    dodanie pliku chorus3.txt - zawiera trzecie wystapienie refrenu piosenki
+
+commit 6cc984a52c27b4fa49e1b8b54e87ce3eca9a464d
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:40:28 2022 +0100
