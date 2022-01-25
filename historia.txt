@@ -1,6 +1,37 @@
-GIT LOG
 
-commit b0852dd86c74e106ac79833ab361c8cf158e7975 (HEAD)
+
+$ git log
+
+
+commit f95fe455267ddf3414d3d658a2636b4636dbea6c (HEAD)
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:58:29 2022 +0100
+
+    dodanie pliku z historią zmian modyfikacji plikow
+
+commit b0852dd86c74e106ac79833ab361c8cf158e7975
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:48:08 2022 +0100
+
+    uaktualnienie nazw plików w piosenka.txt zawierajacych pierwsza, druga i trzecia czesc piosenki
+
+commit 1ccc99b4dd817ef1a55f2f430f8ca34fa28d904a
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:44:00 2022 +0100
+
+    usuniecie powtarzajacego sie pliku z trzecia czescia piosenki i zmiana nazwy pliku trzeciej czesci piosenki na part3.txt
+
+commit 2d02612a68bc341908f1ed964d59b9b0474d20f3
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:41:34 2022 +0100
+:...skipping...
+commit f95fe455267ddf3414d3d658a2636b4636dbea6c (HEAD)
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:58:29 2022 +0100
+
+    dodanie pliku z historią zmian modyfikacji plikow
+
+commit b0852dd86c74e106ac79833ab361c8cf158e7975
 Author: Basia <zielonyzajac@gmail.com>
 Date:   Fri Jan 21 20:48:08 2022 +0100
 
@@ -71,3 +102,342 @@ Date:   Fri Jan 21 19:40:52 2022 +0100
 commit 6cc984a52c27b4fa49e1b8b54e87ce3eca9a464d
 Author: Basia <zielonyzajac@gmail.com>
 Date:   Fri Jan 21 19:40:28 2022 +0100
+
+    dodanie pliku chorus2.txt - zawiera drugie wystapienie refrenu piosenki
+
+commit 375c0dd271d07c97765fd7dcbde0b54a03bfa6d7
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:37:59 2022 +0100
+
+    zmiana nazwy pliku chorus.txt na chorus1.txt
+
+commit 7445f44ee23e62e9014adbeaefdd74f58498186f
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:35:17 2022 +0100
+
+    dodanie pliku part3-5.txt - zawiera piate wystapienie trzeciej czesci piosenki
+
+commit eca53d6aa7ec2e8c497f75e21dec699cbdea0268
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:34:26 2022 +0100
+
+    dodanie pliku part3-4.txt - zawiera czwarte wystapienie trzeciej czesci piosenki
+
+commit 9d260e2d2039cdef9cc4bd9d87442369fb596421
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:33:39 2022 +0100
+
+    dodanie pliku part3-3.txt - zawiera trzecie wystapienie trzeciej czesci piosenki
+
+commit ca3be42725fa378ec9ac2454bd78a099faed58d8
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:33:05 2022 +0100
+
+    dodanie pliku part3-2.txt - zawiera drugie wystapienie trzeciej czesci piosenki
+
+commit 8804fc25836ab24ca33a4c01a972f0d2888a7843
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:27:16 2022 +0100
+
+    zmiana nazwy pliku part3.txt na part3-1.txt
+
+commit 8c1ca08cc3b7f7e052c7012887cf17ab3529aedb
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:25:12 2022 +0100
+
+    dodanie pliku part2-2.txt - zawiera drugie wystąpienie drugiej czesci piosenki
+
+commit 99c34b048a98dba10e44a41cd95ae42b8b07ffc2
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:08:56 2022 +0100
+
+    zmiana nazwy pliku part2.txt na part2-1.txt
+
+commit 5677355f48a65496dbed67983c83601c1e3618d9
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:06:48 2022 +0100
+
+    dodanie pliku part1-2.txt - zawiera drugie wystąpienie pierwszej czesci piosenki
+
+commit 32c1919b9e0653ccdc6e33b96d76b9acd194799c
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 18:56:11 2022 +0100
+
+    zmiana nazwy pliku part1.txt na part1-1.txt
+
+commit 791b3ce76d0e1b32dd4adbb520ac31e2a9877691
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Thu Jan 20 18:24:29 2022 +0100
+
+    dodanie pliku chorus.txt - zawiera refren piosenki
+
+commit d127984b3724890c58c80976eba13fe1d46bc952
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Thu Jan 20 18:20:14 2022 +0100
+
+    dodanie pliku part2.txt - zawiera druga powtarzalna czesc piosenki, ORAZ dodanie pliku part3.txt - zawiera trzecia powtarzalna czesc piosenki
+
+commit e9036d4b585bffc45eb71005ebcae0461c7831ce
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Thu Jan 20 18:11:29 2022 +0100
+
+    dodanie pliku part1.txt - zawiera pierwsza czesc piosenki
+
+commit 96ddcd5eeb56e39759448dc0cdbd4101f025e5ce
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Thu Jan 20 18:04:52 2022 +0100
+
+    dodanie pliku piosenka.txt zawierajacego tekst ulubionej piosenki
+
+
+
+
+
+
+
+
+$ git log -p part1.txt
+
+
+commit f376d746151b54b4ec6b35b603df2656fff5dfd2
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:30:14 2022 +0100
+
+    usuniecie powtarzajacego sie pliku z pierwsza czescia piosenki i zmiana nazwy pliku pierwszej czesci piosenki na part1.txt
+
+diff --git a/part1.txt b/part1.txt
+new file mode 100644
+index 0000000..17be25f
+--- /dev/null
++++ b/part1.txt
+@@ -0,0 +1,6 @@
++I've got fire for a heart
++I'm not scared of the dark
++You've never seen it look so easy
++I got a river for a soul
++And baby you're a boat
++Baby you're my only reason
+
+commit 32c1919b9e0653ccdc6e33b96d76b9acd194799c
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 18:56:11 2022 +0100
+
+    zmiana nazwy pliku part1.txt na part1-1.txt
+
+diff --git a/part1.txt b/part1.txt
+deleted file mode 100644
+index 17be25f..0000000
+--- a/part1.txt
++++ /dev/null
+@@ -1,6 +0,0 @@
+-I've got fire for a heart
+-I'm not scared of the dark
+-You've never seen it look so easy
+-I got a river for a soul
+-And baby you're a boat
+-Baby you're my only reason
+
+commit e9036d4b585bffc45eb71005ebcae0461c7831ce
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Thu Jan 20 18:11:29 2022 +0100
+
+    dodanie pliku part1.txt - zawiera pierwsza czesc piosenki
+
+diff --git a/part1.txt b/part1.txt
+new file mode 100644
+index 0000000..17be25f
+--- /dev/null
++++ b/part1.txt
+@@ -0,0 +1,6 @@
++I've got fire for a heart
++I'm not scared of the dark
++You've never seen it look so easy
++I got a river for a soul
++And baby you're a boat
++Baby you're my only reason
+
+
+
+
+
+
+$ git log -p part2.txt
+
+
+commit 2d02612a68bc341908f1ed964d59b9b0474d20f3
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:41:34 2022 +0100
+
+    usuniecie powtarzajacego sie pliku z druga czescia piosenki i zmiana nazwy pliku drugiej czesci piosenki na part2.txt
+
+diff --git a/part2.txt b/part2.txt
+new file mode 100644
+index 0000000..683c5d9
+--- /dev/null
++++ b/part2.txt
+@@ -0,0 +1,4 @@
++If I didn't have you there would be nothing left
++The shell of a man who could never be his best
++If I didn't have you, I'd never see the sun
++You taught me how to be someone, yeah
+
+commit 99c34b048a98dba10e44a41cd95ae42b8b07ffc2
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:08:56 2022 +0100
+
+    zmiana nazwy pliku part2.txt na part2-1.txt
+
+diff --git a/part2.txt b/part2.txt
+deleted file mode 100644
+index 683c5d9..0000000
+--- a/part2.txt
++++ /dev/null
+@@ -1,4 +0,0 @@
+-If I didn't have you there would be nothing left
+-The shell of a man who could never be his best
+-If I didn't have you, I'd never see the sun
+-You taught me how to be someone, yeah
+
+commit d127984b3724890c58c80976eba13fe1d46bc952
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Thu Jan 20 18:20:14 2022 +0100
+
+    dodanie pliku part2.txt - zawiera druga powtarzalna czesc piosenki, ORAZ dodanie pliku part3.txt - zawiera trzecia powtarzalna czesc piosenki
+
+diff --git a/part2.txt b/part2.txt
+new file mode 100644
+index 0000000..683c5d9
+--- /dev/null
++++ b/part2.txt
+@@ -0,0 +1,4 @@
++If I didn't have you there would be nothing left
++The shell of a man who could never be his best
++If I didn't have you, I'd never see the sun
++You taught me how to be someone, yeah
+
+
+
+
+
+
+
+$ git log -p part3.txt
+
+
+commit 1ccc99b4dd817ef1a55f2f430f8ca34fa28d904a
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:44:00 2022 +0100
+
+    usuniecie powtarzajacego sie pliku z trzecia czescia piosenki i zmiana nazwy pliku trzeciej czesci piosenki na part3.txt
+
+diff --git a/part3.txt b/part3.txt
+new file mode 100644
+index 0000000..0f73d00
+--- /dev/null
++++ b/part3.txt
+@@ -0,0 +1,6 @@
++All my life
++You stood by me
++When no one else, was ever behind me
++All these lights
++They can't blind me
++With your love, nobody can drag me down
+
+commit 8804fc25836ab24ca33a4c01a972f0d2888a7843
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:27:16 2022 +0100
+
+    zmiana nazwy pliku part3.txt na part3-1.txt
+
+diff --git a/part3.txt b/part3.txt
+deleted file mode 100644
+index 0f73d00..0000000
+--- a/part3.txt
++++ /dev/null
+@@ -1,6 +0,0 @@
+-All my life
+-You stood by me
+-When no one else, was ever behind me
+-All these lights
+-They can't blind me
+-With your love, nobody can drag me down
+
+commit d127984b3724890c58c80976eba13fe1d46bc952
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Thu Jan 20 18:20:14 2022 +0100
+
+    dodanie pliku part2.txt - zawiera druga powtarzalna czesc piosenki, ORAZ dodanie pliku part3.txt - zawiera trzecia powtarzalna czesc piosenki
+
+diff --git a/part3.txt b/part3.txt
+new file mode 100644
+index 0000000..0f73d00
+--- /dev/null
++++ b/part3.txt
+@@ -0,0 +1,6 @@
++All my life
++You stood by me
++When no one else, was ever behind me
++All these lights
++They can't blind me
++With your love, nobody can drag me down
+
+
+
+
+
+
+
+
+$ git log -p chorus.txt
+
+
+commit 9af9cd1e82d81bfb6a547f118ec8a147290c1590
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 20:22:08 2022 +0100
+
+    usuniecie powtarzajacych sie plikow refrenu i zmiana nazwy pliku refrenu na chorus.txt
+
+diff --git a/chorus.txt b/chorus.txt
+new file mode 100644
+index 0000000..b8c972f
+--- /dev/null
++++ b/chorus.txt
+@@ -0,0 +1,4 @@
++Nobody, nobody
++Nobody can drag me down
++Nobody, nobody
++Nobody can drag me down.
+
+commit 375c0dd271d07c97765fd7dcbde0b54a03bfa6d7
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Fri Jan 21 19:37:59 2022 +0100
+
+    zmiana nazwy pliku chorus.txt na chorus1.txt
+
+diff --git a/chorus.txt b/chorus.txt
+deleted file mode 100644
+index b8c972f..0000000
+--- a/chorus.txt
++++ /dev/null
+@@ -1,4 +0,0 @@
+-Nobody, nobody
+-Nobody can drag me down
+-Nobody, nobody
+-Nobody can drag me down.
+
+commit 791b3ce76d0e1b32dd4adbb520ac31e2a9877691
+Author: Basia <zielonyzajac@gmail.com>
+Date:   Thu Jan 20 18:24:29 2022 +0100
+
+    dodanie pliku chorus.txt - zawiera refren piosenki
+
+diff --git a/chorus.txt b/chorus.txt
+new file mode 100644
+index 0000000..b8c972f
+--- /dev/null
++++ b/chorus.txt
+@@ -0,0 +1,4 @@
++Nobody, nobody
++Nobody can drag me down
++Nobody, nobody
++Nobody can drag me down.
